@@ -1,7 +1,7 @@
 # Development conventions
 
 # VUEX
-
+```js
 **!ACTIONS!**
 export const ACTION_NAME = 'namespace/actionName';
 
